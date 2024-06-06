@@ -1,4 +1,4 @@
-Project Title: PDF-Based Chatbot Information System
+Project Title: Simple rag twilio
 Overview
 
 This project integrates several technologies to create a Flask-based web application that answers user queries through WhatsApp. The application extracts content from a PDF document, indexes it using FAISS, and uses OpenAI's model to generate responses to queries based on the indexed content.
@@ -22,6 +22,7 @@ Dependencies
     FAISS
     OpenAI
     LangChain (and related packages)
+    ngrok
 
 Setup Instructions
 1. Clone the Repository
@@ -57,6 +58,13 @@ Start the Flask application:
 bash
 
 python app.py
+
+5. open a new terminal
+
+bash:
+ngrok http 5000
+
+6. copy the ngrok webhook to twilio whatsap senders
 
 Usage
 
