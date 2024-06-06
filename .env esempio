@@ -1,0 +1,18 @@
+# Carica il PDF
+pdf_path = r""  # Sostituisci con il percorso del tuo PDF
+
+# Percorso dove salvare/caricare l'indice
+index_path = ''
+
+# Twilio Credentials
+TWILIO_PHONE_NUMBER = ""  # Twilio Sandbox Number
+
+# Groq API Configuration
+GROQ_API_KEY = ""
+
+# Provide your OpenAI API key directly
+OPENAI_API_KEY = ""
+
+TWILIO_ACCOUNT_SID=
+
+TWILIO_AUTH_TOKEN=

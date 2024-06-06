@@ -1,0 +1,42 @@
+neurologiaRag.py License Agreement
+
+1. Grant of License
+
+This License Agreement ("License") permits use of the neurologiaRag.py ("Software") provided by Simone Fratini, ("Licensor"), to the individual or entity who has acquired the software ("Licensee"), solely under the following conditions.
+
+2. Use of Software
+
+Licensee may use the Software solely for personal, non-commercial purposes. Use of the Software within any commercial operation or for the benefit of any third party is expressly prohibited. The Software may only be used on one computing device, and under no circumstances shall the Software be used concurrently on multiple devices.
+
+3. Restrictions
+
+    Modifications: Licensee shall not modify, adapt, translate, reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software.
+    Redistribution: Licensee is prohibited from redistributing, selling, leasing, renting, lending, or sublicensing the Software to any other person, company, or entity.
+    Derivative Works: Creation of derivative works based on the Software is strictly prohibited.
+    Integration: Licensee shall not integrate or use the Software with other software or services without prior written consent from Licensor.
+
+4. Intellectual Property
+
+All title, ownership rights, and intellectual property rights in and to the Software and any copies thereof remain with Licensor and its affiliates. This License does not transfer any ownership rights to Licensee.
+
+5. Termination
+
+This License is effective until terminated. It will terminate immediately without notice from the Licensor if Licensee fails to comply with any provision of this License. Upon termination, Licensee must destroy all copies of the Software.
+
+6. Disclaimer of Warranties
+
+The Software is provided "as is", with all faults and without warranty of any kind. Licensor hereby disclaims all warranties and conditions with regard to the Software, whether express, implied, or statutory, including all implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+
+7. Limitation of Liability
+
+In no event shall Licensor be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
+
+8. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of Italy, without regard to its conflict of law principles.
+
+9. Severability
+
+If any provision of this License is declared void or unenforceable, such provision shall be deemed severed from this License, and this License shall remain in full force and effect according to its terms adjusted as necessary to ensure its validity.
+
+By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this License.
